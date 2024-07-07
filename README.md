@@ -1,2 +1,2 @@
 # portfolio
-this repository contains my own  projects (for any purpose and any sizes) 
+This repository contains my own  projects (for any purpose and any sizes) 
